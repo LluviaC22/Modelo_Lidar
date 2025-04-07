@@ -1,0 +1,9 @@
+Referencias (enlaces) en los que nos basamos para los códigos.
+
+Deep Learning: https://www.iberdrola.com/innovacion/deep-learning      
+Modelo CNN: https://www.datacamp.com/es/tutorial/introduction-to-convolutional-neural-networks-cnns   
+Librerías: https://openwebinars.net/blog/tensorflow-keras-fundamentos/ 
+Video ejemplo: https://www.youtube.com/watch?v=j6eGHROLKP8&t=666s
+Ejemplo: https://www.youtube.com/watch?v=8QZnbvlsmbY
+Clasificación perros y gatos (ejemplo): https://www.youtube.com/watch?v=KZwuhl4hXok
+       
